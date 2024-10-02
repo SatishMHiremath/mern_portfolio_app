@@ -1,0 +1,20 @@
+{
+  "name": "mern-portfolio",
+  "proxy": "http://localhost:8081",
+  "version": "1.0.0",
+  "description": "Portfolio App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satish M Hiremath",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.15",
+    "react-toastify": "^10.0.5"
+  }
+}
