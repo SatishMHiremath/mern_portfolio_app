@@ -1,0 +1,147 @@
+                                     	
+
+                    Satish M Hiremath	
+
+
+
++ 91- 9164141341
+
+satishmhiremath@gmail.com 
+
+
+ 
+Scaling heights of success by delivering exceptional results in Java full stack development across diverse industry verticals, Targeting opportunities in international locations. Proven track record in designing end-to-end applications using Java 8, Spring Boot, React, and microservices architecture.
+
+
+
+
+ 
+•	2010: Bachelor of Engineering in Computer Science from Visveswaraya Technological University
+
+
+
+
+
+
+ 
+•	Data Structures Optimization
+•	Front-End Design Best Practices
+•	Object-Oriented Programming Principles
+•	Agile Development Methodologies
+•	Microservices Architecture Implementation
+•	Application Security Measures
+•	Cloud Deployment Strategies
+•	Database Management Techniques
+•	Quality Assurance Standards
+•	Project Planning and Execution
+
+
+
+
+
+ 
+•	Languages and Technologies: Java8, Spring Boot microservices, Spring Batch, Hibernate, RESTful Web services, Node JS, Angular 6, Reactjs, Junit, DOJO JavaScript.
+•	Additional Technologies: XML, CSS3, HTML5, Typescript, OpenShift, Azure, Shell scripts.
+•	Tools Used: Eclipse, Visual Studio, Jasper iReport, WinSCP, Putty, ANT, Maven, GIT, JIRA, Jenkins, Docker, Kubernetes, Istio service mesh
+•	Servers Used: IBM WebSphere 8.5 (WAS8.5), WebLogic and Apache Tomcat. 
+•	Databases: MSSQL, Oracle, PostgreSQL, MySQL, H2-Inmemory, MongoDB
+
+
+
+
+ 
+•	Leader 
+•	Accuracy
+•	Multi-Tasker
+•	Problem Solver
+•	Communicator
+
+
+
+
+
+
+ 
+•	Date of Birth: 28/11/86
+•	Languages Known: English, Hindi, Kannada, Telugu
+•	Address: Sarjapur, Bengaluru - 562125
+	
+
+
+
+
+
+	 
+•	An accomplishment-driven professional with 14 years of experience in optimizing application performance through code enhancements and innovative solutions.
+•	Rich experience in leveraging expertise in Java full stack development.
+•	Recognized for achieving improvement in application performance through strategic code optimization initiatives in the current role at NatWest Group.
+•	Acting as a Principal Engineer at NatWest Group, focusing on optimizing content management strategies.
+•	Possess a strong foundation in Java 8, Spring Boot Microservices, Kafka, Rest API, and OOPs Programming.
+•	Resourceful in guiding projects from conceptualization to operational applications with React and Spring Boot, ensuring seamless system migrations.
+•	Engaging effectively with diverse teams, ensuring comprehensive testing in a Microservices environment.
+•	Expertise in leading the development of end-to-end applications, optimizing system performance, and implementing innovative solutions to drive operational efficiency.
+•	Skilled in empowering teams through knowledge dissemination and mentorship, fostering excellence in Java development practices.
+•	A prolific leader with strong organizational, interpersonal, management, problem-solving and relationship building skills; possess strong business acumen and the capacity to convert visuals into reality.
+
+
+ 
+Since 02’24, NatWest Group (Content Management), Bengaluru as Principal Engineer
+Key Result Areas:
+•	Collaborating with product owners on functional requirements and system integration using Java 8 and Spring Boot.
+•	Addressing live production defects and vulnerabilities to ensure seamless application performance.
+•	Leading the development of new initiatives from ideation to production-ready applications.
+•	Supporting functional testing and bug fixes in a Microservices architecture.
+•	Participating in project planning discussions and prototyping new solutions.
+•	Spearheading the successful migration of systems using React and Spring Boot.
+•	Achieving improvement in application performance through code optimization.
+Highlights:
+•	Implemented a new content management system that streamlined content delivery processes, resulting in increase in operational efficiency.
+•	Spearheaded the integration of a new Kafka message queue system, enhancing real-time data processing capabilities and reducing system latency.
+
+
+
+ 
+12’21-02’24, Wipro Technologies (United Health Care, Best buy Activation), Bengaluru as Technical Lead
+Highlights:
+•	Developed API based integration components using Java 8 and Spring Boot.
+•	Implemented UI components with React and integrating APIs in a microservices architecture.
+•	Deployed applications in OpenShift4 and managing continuous integration with Jenkins.
+•	Collaborated with QA teams for end-to-end testing in Microservices architecture.
+•	Enhanced data delivery processes to support operations team efficiency.
+•	Streamlined data export processes, improving operational efficiency.
+•	Led the development and implementation of a data caching mechanism that reduced data retrieval times by XX%, improving overall system performance.
+
+12’19-12’21, IBM India Pvt Ltd (Lowes Supply Chain, DBS Consumer Banking), Bengaluru as Sr. System Analyst
+Highlights:
+•	Developed frontend components using Angular 6, Reactjs Frameworks and Java backend to integrate with Spring boot, Rest Api’s, Jdbc frameworks and login, security app configuration using JWT for cross dock location and container distribution from Ocean to respective stores 
+•	Managed time-sensitive updates with batch jobs, including content changes, notifications, and database operations, worked in sunsetting the third-party applications by orchestrating Api calls to support business transactions
+•	Worked on TTD development, handling cache data for large data sets from database, writing jobs to export consumer products in a structured format.
+
+10’17-12’19, Capgemini India Pvt Ltd (Public Sector, PSA Automobile), Bengaluru as Sr. Consultant
+Highlights:
+•	Created front end components using Angular 6 and integrated the backend service using Spring boot, REST Api design and supported with knowledge transfer to cross functional team on the application functionality using Spring boot, JPA framework MVC architecture with REST API
+•	Application integration using API testing using rest client Postman and support for the deployment activity using Jenkins pipeline, code quality tools using Sonar, Artifactory with DevOps team 
+•	Adhered to coding standards using plugins to support and validate unit and integration testing and code coverage tools.
+•	Involved in gathering and understanding the functional requirements from onshore counterparts for the use case or feature driven development 
+
+03’15-10’17, Infosys & its subsidiary Edgeverve Systems Pvt. Ltd., Bengaluru as Technology Analyst
+Highlights:
+•	Created customization by using DOJO JavaScript toolkit components with Styles guides for Front end, writing business logic and mapping objects to rest API using Soap services and Spring MVC, Java6 at the backend.
+•	 Simplified development process by creating Api design for the reusable components 
+•	Provided maintenance, support and deploying the application on to app servers using the ci/cd tools such as Jenkins, WebLogic server. Writing the Test plan and test cases for every requirement specified in the BRD
+
+01’14-03’15, HCL Technologies Pvt. Ltd (Capital Markets - RVR, CROCI), Bengaluru as Sr. Software Engineer
+Highlights:
+•	Collaborated with teams and analyzing the data from streams to handle application workflow for the web applications using Spring MVC, security, Rest Api’s and DB2 database and involved in fixing production issues using server logs.
+•	Developed the customized features of apps in java to support the daily activities as part of application jobs and scheduler processes
+•	Worked in multiple java web-based applications related of Capital Markets by feature enhancement and providing application flow knowledge to operations team during the release activities
+
+
+03’11-01’14, iTWINE Technologies Pvt. Ltd (Free Balance), Bengaluru as Software Engineer
+Highlights:
+•	Created custom frontend screens by using Trinidad (JSF) components, low level component and mapped business logic with JPA, Spring MVC framework using OOP’s programming in web-based application.
+•	Created jasper reports and integrated in application using iReport Tool and Writing queries using Hibernate JPA framework to map business logic using Spring MVC
+•	Worked on multiple cross functional domains on budgeting and converted into technical implementation and continuous testing performed for the use cases scope  
+
+
+
