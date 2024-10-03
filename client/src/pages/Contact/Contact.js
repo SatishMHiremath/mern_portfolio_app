@@ -5,58 +5,57 @@ import Rotate from "react-reveal/Rotate";
 import LightSpeed from "react-reveal/LightSpeed";
 import { BsFacebook, BsGithub, BsLinkedin } from "react-icons/bs";
 
+ //handle submit button
+ export const handleSubmit = async (e, name, email, msg, setError, setname, setEmail, setMsg) => {
+  e.preventDefault();
+
+  setError({name:"",email:"",msg:""});
+  
+  let hasError = false;
+  if(!name) {
+      setError((prev) => ({...prev, name: "Name is required"}));
+      hasError = true;
+  }
+  if(!email) {
+      setError((prev) => ({...prev, email: "Email is required"}));
+      hasError = true;
+  }    
+  if(!msg) {
+      setError((prev) => ({...prev, msg: "Message is required"}));
+      hasError = true;
+  }
+
+  if(hasError) {
+      return;
+  }
+  try {
+  
+    const res = await axios.post("http://localhost:8081/api/v1/portfolio/sendEmail", {
+      name,
+      email,
+      msg,
+    });
+    //validation success
+    if (res.data.success) {
+      console.log(res.data.message);
+      setname("");
+      setEmail("");
+      setMsg("");
+    } else {
+      console.log(res.data.message);
+      alert("Error: " + res.data.message);
+    }
+  } catch (error) {
+    console.log(error);
+    alert("Error : "+error);
+  }
+};
+
 const Contact = () => {
   const [name, setname] = useState("");
   const [email, setEmail] = useState("");
   const [msg, setMsg] = useState("");
   const [error, setError] = useState({name:"", email:"", msg:""});
-
-  //handle submit button
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-
-    setError({name:"",email:"",msg:""});
-    
-    let hasError = false;
-    if(!name) {
-        setError((prev) => ({...prev, name: "Name is required"}));
-        hasError = true;
-    }
-    if(!email) {
-        setError((prev) => ({...prev, email: "Email is required"}));
-        hasError = true;
-    }    
-    if(!msg) {
-        setError((prev) => ({...prev, msg: "Message is required"}));
-        hasError = true;
-    }
-
-    if(hasError) {
-        return;
-    }
-    try {
-    
-      const res = await axios.post("http://localhost:8081/api/v1/portfolio/sendEmail", {
-        name,
-        email,
-        msg,
-      });
-      //validation success
-      if (res.data.success) {
-        console.log(res.data.message);
-        setname("");
-        setEmail("");
-        setMsg("");
-      } else {
-        console.log(res.data.message);
-        alert("Error: " + res.data.message);
-      }
-    } catch (error) {
-      console.log(error);
-      alert("Error : "+error);
-    }
-  };
-
   return (
     <>
       <div className=" contact" id="contact">
@@ -130,7 +129,8 @@ const Contact = () => {
                       {error.msg && <p className='error-message'>{error.msg}</p>}
                     </div>
                     <div className="row px-3">
-                      <button className="button" onClick={handleSubmit}>
+                      <button className="button" 
+                      onClick={(e) => handleSubmit(e, name, email, msg, setError, setname, setEmail, setMsg)}>
                         SEND MESSAGE
                       </button>
                     </div>
