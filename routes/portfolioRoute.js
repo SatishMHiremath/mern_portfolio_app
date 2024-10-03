@@ -1,12 +1,11 @@
-const express = require('express');
-const { handleSubmit } = require('../client/src/pages/Contact/Contact');
+const express = require("express");
+const { sendEmailController } = require("../controller/portfolioController");
 
-//router object 
+//router object
 const router = express.Router();
 
 //routes
-router.post("/sendEmail", handleSubmit);
+router.post("/sendEmail", sendEmailController);
 
-//export 
- module.exports = router;
-
+// /export
+module.exports = router;
